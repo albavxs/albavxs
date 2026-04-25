@@ -3,7 +3,7 @@
 🤓 About Me:
 🔭
  Full Stack Developer<br>👯
- Looking for some open source collaborations<br>🐱‍👤 Java | Next |  React<br>🌱
+ Looking for some open source collaborations<br>🐱‍👤 Angular| Vue | Next |  React<br>🌱
  Ask me about Software in general I do love coding<br>📫
 
 🌐 Socials:
