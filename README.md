@@ -1,41 +1,84 @@
-## Hi i am Paulo Guilherme 👋
+<h1 align="center">Paulo Guilherme</h1>
 
-🤓 About Me:
-🔭
- Full Stack Developer<br>👯
- Looking for some open source collaborations<br>🐱‍👤 Angular| Vue | Next |  React<br>🌱
- Ask me about Software in general I do love coding<br>📫
+<p align="center">
+  <strong>Full-Stack Developer · Software Quality · Developer Tools</strong>
+</p>
 
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-guilherme-santos-alves/) 
+<p align="center">
+  Rio de Janeiro, Brazil 🇧🇷
+</p>
 
-💻 Tech Stack:
+<p align="center">
+  <a href="https://portfolio-pauologui.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/paulo-guilherme-santos-alves/">LinkedIn</a>
+</p>
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+## About me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+I'm a Full-Stack Developer focused on building **web products, developer tools and interactive experiences**.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+My strongest stack is **TypeScript / React / Next.js**, but I also work across backend development, APIs, databases, testing, automation and deployment. I enjoy projects where product thinking and software engineering meet: from SaaS-style applications to CLIs, visual tools and browser-based experiences.
 
+Currently:
 
+- 💻 Full-Stack Developer at **Few Company**
+- 🧪 QA Analyst at **Lance Web**
+- 🎓 Computer Science undergraduate at **IBMR**
+- 🌎 Portuguese native · Advanced English
 
+---
+
+## Selected work
+
+| Project | What it demonstrates | Main stack |
+| --- | --- | --- |
+| [**SharkType**](https://github.com/albavxs/SharkType) · [Live](https://shark-type-io.vercel.app/) | Full product development: authentication, typing tracks, progression, leaderboard, feed/community, internationalization and database-backed user features | Next.js, React, TypeScript, Supabase, PostgreSQL, Tailwind CSS |
+| [**AlgoriUI**](https://github.com/albavxs/AlgoriUI) | Interactive algorithm visualization with TS/JS/Python execution, Monaco Editor, timelines, multiple visualization modes and shareable state | Next.js, TypeScript, Monaco, Pyodide, Zustand, Framer Motion |
+| [**ArchRadar**](https://www.npmjs.com/package/@fewcompany/archradar) | Developer tooling for analyzing JS/TS project health, including complexity, coupling, circular dependencies and dependency risk | TypeScript, Node.js, AST analysis, CLI tooling |
+| [**MScript**](https://github.com/albavxs/music-generator) | Python CLI architecture with external integrations, local caching, command separation and automated tests | Python, pytest, Ruff, Black |
+| [**Aizawa Attractor**](https://github.com/albavxs/Atractor-threejs) | Interactive 3D browser experience with reusable scene architecture and mobile/touch support | Next.js, TypeScript, Three.js |
+| [**Portfolio**](https://github.com/albavxs/Portfolio-next) · [Live](https://portfolio-pauologui.vercel.app/) | Personal portfolio focused on interactive presentation and modern frontend work | Next.js, React, Three.js, Framer Motion, Tailwind CSS |
+
+---
+
+## Core stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+**Frontend:** React, Next.js, React Native, Tailwind CSS, Three.js  
+**Backend:** Node.js, Express, FastAPI, REST APIs  
+**Data:** PostgreSQL, Supabase, SQL, SQLite  
+**Quality & tooling:** Git, GitHub Actions, Cypress, Docker, Postman, CI/CD  
+**Also working with / learning:** Rust, GCP, Kubernetes, observability and security fundamentals
+
+---
+
+## What I like building
+
+- Developer tools and engineering productivity software
+- Full-stack products with real user flows and persistent data
+- Interactive browser experiences
+- Automation and API integrations
+- Systems where testing, maintainability and architecture matter
+
+---
+
+## Open source & collaboration
+
+I'm interested in collaborating on open-source projects, especially around **developer tooling, web platforms, automation and interactive software**.
+
+If you'd like to talk about a project or opportunity, reach me through [LinkedIn](https://www.linkedin.com/in/paulo-guilherme-santos-alves/) or check out my [portfolio](https://portfolio-pauologui.vercel.app/).
