@@ -1,7 +1,12 @@
 <h1 align="center">Paulo Guilherme</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Software Quality · Developer Tools</strong>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Building+web+products+and+developer+tools;TypeScript+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+Supabase;Interactive+experiences+%C2%B7+APIs+%C2%B7+Automation"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
