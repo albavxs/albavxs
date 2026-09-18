@@ -83,18 +83,6 @@ Currently:
 ---
 
 
----
-
-## Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albavxs/albavxs/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albavxs/albavxs/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/albavxs/albavxs/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ## Open source & collaboration
 
 I'm interested in collaborating on open-source projects, especially around **developer tooling, web platforms, automation and interactive software**.
