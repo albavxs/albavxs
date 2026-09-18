@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate 2026 contribution snake
 
 on:
   schedule:
@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - "scripts/generate_2026_snake.py"
 
 jobs:
   generate:
@@ -17,13 +20,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate 2026-only contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+          CONTRIBUTION_YEAR: "2026"
+        run: python3 scripts/generate_2026_snake.py
 
       - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v5.0.0
